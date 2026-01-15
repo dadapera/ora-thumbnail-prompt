@@ -21,6 +21,8 @@ The topics to depict in the thumbnail are:
 
 ## Examples
 
+*These examples have been generated with ChatGPT image generator.*
+
 ![demo_thumbnail](thumbnails/demo_thumbnail.png)
 
 <details>
