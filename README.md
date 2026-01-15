@@ -77,6 +77,8 @@ The topics to depict in the thumbnail are:
 
 ![demo_thumbnail_3](thumbnails/demo_thumbnail_3.png)
 
+*Note: The Gemini watermark visible in this example is due to post-processing, not generation.*
+
 <details>
 <summary>Prompt</summary>
 
